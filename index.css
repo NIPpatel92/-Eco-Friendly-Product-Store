@@ -1,0 +1,50 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    .container {
+      padding: 2rem;
+    }
+    .pro {
+      border: 2px solid #ccc;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      background: #ffffff;
+    }
+    .calculator, .contact-form {
+      margin-top: 3rem;
+      background: #e0f2f1;
+      padding: 1rem;
+      border-radius: 9px;
+    }
+    label {
+      display: block;
+      margin-top: 0.5rem;
+    }
+    input, textarea {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.3rem;
+    }
+    button {
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: #388e3c;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #2e7d32;
+    }
+  
